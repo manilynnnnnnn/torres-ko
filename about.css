@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url(haahaha.avif);
+    color: white;
+}
+
+header {
+    background: transparent;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: transparent ;
+    border-radius: 10px;
+    box-shadow:  20px ;
+    backdrop-filter: blur(20px);
+}
+
+h2 {
+    margin-top: 20px;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    background: transparent;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+}
+
